@@ -16,7 +16,7 @@ require (
 	github.com/btcsuite/btcd v0.21.0-beta // indirect
 	github.com/centrifuge/go-substrate-rpc-client v2.0.0+incompatible // indirect
 	github.com/centrifuge/go-substrate-rpc-client/v2 v2.1.0
-	github.com/ethereum/go-ethereum v1.9.25
+	github.com/ethereum/go-ethereum v1.10.1
 	github.com/mattn/go-isatty v0.0.12 // indirect
 	github.com/prometheus/client_golang v1.8.0
 	github.com/prometheus/common v0.15.0 // indirect
